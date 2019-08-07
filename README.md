@@ -29,7 +29,7 @@ Les fichiers modifiables sont au format PPTX et sont en téléchargement libre :
 - [Livret (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pptx)
 
 Pour toute proposition de modification :
-- Vous pouvez contactez 123cyber@wavestone.com et contact@cyberccj.com
+- Vous pouvez contacter 123cyber@wavestone.com et contact@cyberccj.com
 - Les versions textes des cartes et du livret seront bientôt déposées afin de faciliter l'injection et le suivi de vos propositions
 
 
