@@ -22,7 +22,7 @@ Simple à imprimer et à transporter pour une utilisation la plus massive possib
 
 # Pour contribuer
 
-Ce jeu est diffusé en licence libre : vous pouvez le modifier à votre guise tant que les conditions de la licence sont respectées.
+Ce jeu est diffusé en licence libre : vous pouvez le modifier à votre guise tant que les conditions de la [licence](LICENSE) sont respectées.
 
 Les fichiers modifiables sont au format PPTX et sont en téléchargement libre :
 - [Jeu de cartes (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pptx)
