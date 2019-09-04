@@ -16,7 +16,7 @@ Simple à imprimer et à transporter pour une utilisation la plus massive possib
 <p align="center">
   <a href="1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf"><img width="200" src="images/LivretAnimateur.png"></a>
   <br>
-  <a href="1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a>
 </p>
 
 
