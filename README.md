@@ -8,13 +8,13 @@ Ce jeu est le __fruit d’une collaboration entre l’association CCJ et le cabi
 
 Simple à imprimer et à transporter pour une utilisation la plus massive possible, le kit de jeu est constitué :
 <p align="center">
-  <a href="1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pdf"><img src="images/JeuDeCartes.png"></a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pdf"><img src="images/JeuDeCartes.png"></a>
   <br>
-  <a href="1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pdf">D'un jeu de 35 cartes (PDF)</a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pdf">D'un jeu de 35 cartes (PDF)</a>
 </p>
 
 <p align="center">
-  <a href="1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf"><img width="200" src="images/LivretAnimateur.png"></a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf"><img width="200" src="images/LivretAnimateur.png"></a>
   <br>
   <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a>
 </p>
