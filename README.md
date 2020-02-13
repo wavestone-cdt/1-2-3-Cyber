@@ -16,7 +16,7 @@ Simple à imprimer et à transporter pour une utilisation la plus massive possib
 <p align="center">
   <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf"><img width="200" src="images/LivretAnimateur.png"></a>
   <br>
-  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a> <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/blob/dev/sources/1%2C2%2C3%20Cyber%20-%20Livret%20Animateur.md">consultable en ligne</a>
 </p>
 
 
@@ -27,6 +27,7 @@ Ce jeu est diffusé en licence libre : vous pouvez le modifier à votre guise ta
 Les fichiers modifiables sont au format PPTX et sont en téléchargement libre :
 - [Jeu de cartes (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pptx)
 - [Livret (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pptx)
+- [Livret Animateur en ligne](sources/1%2C2%2C3%20Cyber%20-%20Livret%20Animateur.md)
 
 Pour toute proposition de modification :
 - Vous pouvez contacter 123cyber@wavestone.com et contact@cyberccj.com
