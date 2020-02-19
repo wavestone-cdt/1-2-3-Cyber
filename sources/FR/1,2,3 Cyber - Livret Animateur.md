@@ -204,7 +204,7 @@ L’équipe gagnante est celle qui récolte le plus de points ! __Félicitations
 
 ----
 
-# 3 - Bilan - 20 min
+## 3 - Bilan - 20 min
 
 L’animateur peut commencer par une question simple : __est ce que vous avez passé un bon moment ? Qu’en retenez vous ?__
 

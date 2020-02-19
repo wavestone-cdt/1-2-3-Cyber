@@ -1,1 +1,1 @@
-Ce répertoire contient les fichiers modifiables au format PPTX.
+This repository contains the sources of the game in different folders for each language.
