@@ -16,7 +16,7 @@ Simple à imprimer et à transporter pour une utilisation la plus massive possib
 <p align="center">
   <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf"><img width="200" src="images/LivretAnimateur.png"></a>
   <br>
-  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a>
+  <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pdf">D'un livret animateur (PDF)</a> <a href="https://github.com/wavestone-cdt/1-2-3-Cyber/raw/master/sources/FR/1%2C2%2C3%20Cyber%20-%20Livret%20Animateur.md">consultable en ligne</a>
 </p>
 
 
@@ -25,12 +25,14 @@ Simple à imprimer et à transporter pour une utilisation la plus massive possib
 Ce jeu est diffusé en licence libre : vous pouvez le modifier à votre guise tant que les conditions de la [licence](LICENSE) sont respectées.
 
 Les fichiers modifiables sont au format PPTX et sont en téléchargement libre :
-- [Jeu de cartes (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pptx)
-- [Livret (PPTX)](sources/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pptx)
+- [Jeu de cartes (PPTX)](sources/FR/1%2C2%2C3%20Cyber%20-%20Jeu%20de%20cartes.pptx)
+- [Cartes souces (XLS)](sources/FR/cartes_sources.xlsm) : ce document Excel permet de générer rapidement les cartes en format PPT
+- [Livret (PPTX)](sources/FR/1%2C2%2C3%20Cyber%20-%20Livret%20animateur.pptx)
+- [Livret Animateur en ligne](sources/FR/1%2C2%2C3%20Cyber%20-%20Livret%20Animateur.md)
 
 Pour toute proposition de modification :
 - Vous pouvez contacter 123cyber@wavestone.com et contact@cyberccj.com
-- Les versions textes des cartes et du livret seront bientôt déposées afin de faciliter l'injection et le suivi de vos propositions
+- Vous pouvez modifier [le fichier Excel](sources/FR/cartes_sources.xlsm) afin de créer un nouveau jeu de cartes
 
 
 # A propos des initiateurs du projet
