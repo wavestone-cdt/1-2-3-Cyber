@@ -1,0 +1,97 @@
+"Proposition pour une nouvelle version du jeu 123 Cyber!, en cohérence avec les thèmes du décret de l'Education Nationale sur le numérique.",,,,,,
+,,,,,,
+Thématiques Cybersécurité,NB mots,Mot PIX,Mot Tabou 1,Mot Tabou 2,Mot Tabou 3,Ancienneté
+Accessibilité,5,Code PIN,Carte SIM,Chiffre,Mot de passe,new
+,,Contrôle parental,Filtrage,Dangers,Navigation,new
+,,Autorisation,Droit,Application,Accès,new
+,,Session,Expirer,Connexion,Ordinateur,new
+,,Verrouiller,Session,Téléphone,Bloquer,new
+Attaques et menaces,12,Arnaque,Achat,Escroquerie,Données personnelles,old
+,,Cyberattaque,Malveillant,Rançongiciel,Destruction,new
+,,Cyberguerre,Combat,Internet,Espions,new
+,,Cambriolage,Vol,Maison,Géolocalisation,old
+,,Espionnage,James Bond,Surveiller,Données,new
+,,Fuite de données,Données personnelles,Hackers,Vol,new
+,,Hacker,Pirate,Virus,Attaquer,old
+,,Phishing,Arnaque,Poisson,Hameçonnage,old
+,,Pirater,Hacker,Informatique,Arnaque,new
+,,Ransomware (rançongiciel),Chiffrement,Données,Argent,new
+,,Ver informatique,Virus,Terre,Attaque,new
+,,Virus,Téléchargement,Inflitration,Logiciel,old
+Authentification,4,Authentification,Mot de passe ,Protéger,Compte,new
+,,Mot de passe,Code,Complexe,Secret,old
+,,Authentification forte,Mot de passe ,SMS,Sécurité,new
+,,Hachage,Données,Confidentialité,Cryptographie,new
+Chiffrement,4,Algorithme,Code,Protection,Calcul,new
+,,Chiffrement,Protection,Document,Accès,new
+,,Clé de chiffrement,Serrure,Document,Protéger,new
+,,Messagerie chiffrée,Whatsapp,Envoyer,Téléphone,new
+Collecte et exploitation de données massives,5,Cookies,Traquer,Vie privée,Consentement,old
+,,Géolocalisation,GPS,Pokémon Go,Traces,old
+,,Historique,Navigation,Traces,Souvenir,old
+,,Vidéo-surveillance,Caméra,Sécurité,Vigile,new
+,,Youtube,Vidéo,Musique,Téléphone,new
+Données personnelles et loi,5,Données sensibles,Données personnelles,Banque,Orientation sexuelle,new
+,,Données personnelles,Vie privée,Protéger,Informations,new
+,,Données bancaires,Achat,Carte bleue,Transaction,old
+,,Droit à l'image,Autorisation,Diffusion,Reconnaissable,old
+,,Empreinte digitale,Donnée personnelle,Doigt,Police,new
+Droit d'auteur,3,Streaming,Film,Internet,Gratuit,new
+,,Droit d'auteur,Oeuvre,Copyright,Argent,new
+,,Téléchargement illégal,Interdit,Propriété intellectuelle,Films,old
+e-réputation et influence,6,Cellule d'écoute,Téléphone,Echanger,Aide,old
+,,Chantage,Argent,Obligation,Information,old
+,,Cyberharcèlement,Réseaux sociaux,Bouc émissaire,Moquerie,old
+,,E-Réputation,Like,Aimer,Réseau social,new
+,,Signalement,Dénoncer,Contenu choquant,Preuve,old
+,,Témoin,Harcèlement,Voir,Accident,old
+Gouvernance d'Internet et neutralité du Web,6,Fraude,Triche,Usurpation,Achat,old
+,,Internet,Réseau,Mondial,Google,new
+,,Navigation privée,Historique,Confidentialité,Internet,new
+,,Cloud,Internet,Stockage,Fichier,new
+,,Moteur de recherche,Trouver,Indexer,Google,old
+,,Neutralité du Net,Liberté,Internet,Droit,new
+Identité numérique et signaux,3,Avatar,Profil,Anonymat,Personnage,old
+,,Age minimum,Réseaux sociaux,Droit,Utiliser,new
+,,Usurpation d'identité,Vol,Informations personnelles,Prétendre,old
+Impact environnemental,2,Data Center,Serveur,Energie,Pollution,new
+,,Pollution numérique,Impact,Technologie,Utiliser,new
+Logiciels de prévention et de protection,3,AddBlock,Bloquer,Publicités,Pop-Up,new
+,,Analyse de sécurité ,Protéger,Ordinateur,Fichier,new
+,,Antivirus,Protéger,Avast,Attaque,new
+Maintenance et mise à jour,2,Mise à jour,Nouveauté,Téléchargement,Correctif,new
+,,Correctif de sécurité,Vulnérabilité,Correction,Patch,new
+Panne et support informatique,1,Bug,Erreur 404,Site Internet,Problème,new
+Protocoles et modalités de partage,3,Wifi,Réseau,Box,Sans fil,new
+,,Bluetooth,Réseau,Partage,Proximité,new
+,,Objets connectés,Montre,OK Google,Données personnelles,new
+Recul critique face à l'information et aux médias,2,Fake News,Mensonge,Désinformation,Diffusion,old
+,,Trucage,Montage,Photos,Mensonge,old
+Règles de publication et visbilité,5,Identification,Amis,Photos,Notification,new
+,,Compte privé,Public,Restriction,Amis,new
+,,Modérateur,Forum,Contenu,Supprimer,new
+,,Paramètres de confidentialité,Accès,Public,Réseau social,new
+,,Troll,Forum,Buzz,Polémique,new
+Santé,3,Déconnexion,Droit,Mode avion,Internet,new
+,,Lumière bleue,Dormir,Ordinateur,Filtre,new
+,,Ondes électromagnétiques,Electronique,Risque,Mode avion,new
+Sauvegarde et restauration,1,Sauvegarde,Checkpoint,Enregistrement,Disque dur,new
+Source et citation,5,Meme,Image,Gif,Détourné,new
+,,Gif,Image,Animée,Message,new
+,,Annonce sponsorisée,Publicité,Ciblé,Internet,new
+,,URL,Adresse,séurisée,Internet,new
+,,Wikipédia,Recherche,Site Internet,Encyclopédie,new
+Traces,1,Traces numériques,Historique,Profil,Actions,old
+Vie connectée,8,Ami virtuel,Jeu en ligne,Inconnu,Rencontre,old
+,,Challenge,Défi,Danger,Menaces,old
+,,Facebook,Profil,Photos,Publications,old
+,,Jeu concours,Données personnelles,Lots,Evènements,new
+,,Likes,J'aime,Publication,Réseaux sociaux,old
+,,Snapchat,Photo,Ephémère,Partage,old
+,,Chatbot,Agent conversationnel,Discuter,Internet,new
+,,Tchat,Discuter,Jeu en ligne,Forum,old
+Vie privée et confidentialité,5,Anonymat,Avatar,Pseudo,Non-identitifiable,old
+,,Confidentialité,Réseaux sociaux,Partage,Restriction,old
+,,Pseudo,Protection,Nom,Anonyme,new
+,,Vie Privée,Restriction,Accès,Données personnelles,old
+,,Webcam,Caméra,Ordinateur,Film,old
